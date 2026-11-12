@@ -1,0 +1,7 @@
+RankMate Android Full Source
+App: RankMate V5.4 · Filter AM
+Native: Java Android WebView wrapper
+Gradle: 8.9 / Android Gradle plugin 8.7.3
+Minimum Android: 10 (API 29)
+Original web app size: 323241 bytes
+Build status: sources generated; NOT compiled (Android SDK unavailable in this environment)
