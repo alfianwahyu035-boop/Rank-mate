@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.RankMate" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/rankmate_yellow</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/rankmate_white</item>
+        <item name="android:navigationBarColor">@color/rankmate_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/rankmate_white</item>
+    </style>
+</resources>
